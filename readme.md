@@ -47,6 +47,6 @@
 <br><br>
 
 # 📊 GitHub Stats
+![ivann-bravo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann-bravo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)<br/>
 ![ivann-bravo's Stats](https://github-readme-stats.vercel.app/api?username=ivann-bravo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![ivann-bravo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivann-bravo&theme=tokyonight&hide_border=true)<br/>
-![ivann-bravo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann-bravo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)<br/>
