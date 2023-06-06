@@ -44,6 +44,9 @@
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
 
-![ivann-bravo's Stats](https://github-readme-stats.vercel.app/api?username=ivann-bravo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![ivann-bravo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivann-bravo&theme=tokyonight&hide_border=false)
-![ivann-bravo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann-bravo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<br><br>
+
+# 📊 GitHub Stats
+![ivann-bravo's Stats](https://github-readme-stats.vercel.app/api?username=ivann-bravo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
+![ivann-bravo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivann-bravo&theme=midnight-purple&hide_border=true)<br/>
+![ivann-bravo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann-bravo&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)<br/>
