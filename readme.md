@@ -1,6 +1,6 @@
 # Hola, soy Iván 👋
 <strong>Estudiante de Licenciatura en Sistemas</strong> - Universidad Nacional de Lanús (UNLa)<br>
-<strong>Desarrollador Web Full Stack Python</strong> - Codo a Codo 4.0 (En curso)<br>
+<strong>Desarrollador Web Full Stack Python</strong> - Codo a Codo 4.0<br>
 
 # 👀 Sobre Mí
 🌱 Me encuentro ampliando mis conocimientos y habilidades con un constante aprendizaje de nuevas tecnologías.<br>
