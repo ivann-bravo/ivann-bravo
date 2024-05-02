@@ -7,7 +7,7 @@
 👯 Abierto a colaborar en proyectos con otros desarrolladores.<br>
 🚀 Objetivo 2024: Avanzar en el tercer año de mi carrera universitaria.<br>
 🤗 En busca de mi primer empleo en el sector. Me encuentro abierto a cualquier oportunidad de trabajo!<br>
-👨‍💻 Todos mis proyectos los encontras en: [Portfolio en construcción...](#)<br>
+👨‍💻 Todos mis proyectos los encontras en: [Portfolio en construcción...]()<br>
 📫 Enviame un correo: **[ibravo1802@gmail.com](mailto:ibravo1802@gmail.com)**
 
 ## Encontrame en
@@ -28,8 +28,9 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width="26" style="padding-right:10px" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" align="left" width="26" style="padding-right:10px" />](https://vuejs.org)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="left" width="26" style="padding-right:10px" />](https://getbootstrap.com)
+[<img src="https://devicon-website.vercel.app/api/flask/original.svg" alt="Flask" align="left" width="26" style="padding-right:10px" />](https://flask.palletsprojects.com/es/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" align="left" width="26" style="padding-right:10px" />](https://www.linux.org)
-[<img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal" align="left" width="26" style="padding-right:10px" />](#)
+[<img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal" align="left" width="26" style="padding-right:10px" />](https://www.w3schools.com/whatis/whatis_cli.asp/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" align="left" width="26" style="padding-right:10px" />](https://slack.com/intl/es-es/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="Woocommerce" align="left" width="26" style="padding-right:10px" />](https://woocommerce.com/es/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" align="left" width="26" style="padding-right:10px" />](https://wordpress.com/es/)
