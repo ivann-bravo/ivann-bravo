@@ -5,9 +5,9 @@
 # 👀 Sobre Mí
 🌱 Me encuentro ampliando mis conocimientos y habilidades con un constante aprendizaje de nuevas tecnologías.<br>
 👯 Abierto a colaborar en proyectos con otros desarrolladores.<br>
-🚀 Objetivo 2024: Avanzar en el tercer año de mi carrera universitaria.<br>
+🚀 Objetivo 2025: Obtener el título de Analista de Sistemas en mi carrera universitaria.<br>
 🤗 En busca de mi primer empleo en el sector. Me encuentro abierto a cualquier oportunidad de trabajo!<br>
-👨‍💻 Todos mis proyectos los encontras en: [Portfolio en construcción...]()<br>
+👨‍💻 Todos mis proyectos los encontras en: [Portfolio en construcción...](https://more-members-087041.framer.app)<br>
 📫 Enviame un correo: **[ibravo1802@gmail.com](mailto:ibravo1802@gmail.com)**
 
 ## Encontrame en
